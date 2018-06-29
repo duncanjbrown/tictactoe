@@ -1,6 +1,6 @@
 # ttt
 
-Tic tac toe, following a session at London Clojurians' monthly Clojure Dojo
+Tic tac toe, following a session at London Clojurians' monthly Clojure Dojo. The original repository from the Dojo is [here](https://github.com/ldnclj/tictactoe).
 
 ![Screenshot](https://user-images.githubusercontent.com/642279/42116654-1e7ccb8e-7bf0-11e8-8440-5eed4a08116d.png)
 
