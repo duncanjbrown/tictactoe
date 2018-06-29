@@ -2,6 +2,8 @@
 
 Tic tac toe, following a session at London Clojurians' monthly Clojure Dojo
 
+![Screenshot](https://user-images.githubusercontent.com/642279/42116654-1e7ccb8e-7bf0-11e8-8440-5eed4a08116d.png)
+
 ## Instructions
 
 `lein run`
